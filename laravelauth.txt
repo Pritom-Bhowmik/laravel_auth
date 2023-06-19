@@ -1,0 +1,4 @@
+Laravel Default Login and Registration
+	1. composer require laravel/ui
+	2. php artisan ui bootstrap --auth
+	3. npm install && npm run dev
